@@ -1,0 +1,14 @@
+//
+// Created by User on 16/01/2023.
+//
+
+#ifndef ASSINGMENT3_NEW_STOMPCLIENTNEW_H
+#define ASSINGMENT3_NEW_STOMPCLIENTNEW_H
+
+
+class StompClientnew {
+
+};
+
+
+#endif //ASSINGMENT3_NEW_STOMPCLIENTNEW_H
